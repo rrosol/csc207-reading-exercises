@@ -1,0 +1,21 @@
+public class Dog {
+    public String type;
+    public String color;
+    public int age;
+
+    public Dog (String type, String color, int age) {
+        this.type = type;
+        this.color = color;
+        this.age = age;
+    }
+
+
+    public static void main(String[] args) {
+        Dog Carlos = new Dog("Bulldog", "White", 4);
+        System.out.println(Carlos.type);
+        System.out.println(Carlos.color);
+        System.out.println(Carlos.age);
+    }
+        
+
+}
