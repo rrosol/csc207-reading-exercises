@@ -1,0 +1,3 @@
+Best Big O = f(n) = 1 <= g(n) = 1
+Worst Big O = f(n) = n <= g(n) = n
+Average Big O = f(n) = 1 <= g(n) = n/2
