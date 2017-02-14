@@ -1,0 +1,5 @@
+ret contains the max value of the elements of an array from 0 to n.
+
+The program follows through with that by always giving the max between ret and 
+the ith element of the array eventually producing the max value of the 
+elements of the array.
