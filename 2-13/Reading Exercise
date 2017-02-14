@@ -1,0 +1,26 @@
+Point A
+
+--main
+args[] ---------> []
+c [] -----------> [Counter]
+                  [Value 1]
+                  
+--doWork
+c [] -----------> [Counter]
+                  [Value 0]
+                  
+                  
+                  
+                  
+                  
+                  
+Point B
+
+--main
+args[] ----------> []
+c []   ----------> [Counter]
+                   [Value 1]
+                   
+                   
+                   [Counter]
+                   [Value 2]
