@@ -1,0 +1,1 @@
+Line A type checks because foo() is a part of interface I and the output is foo(). Line B does not type check as bar() isnt a part of interface I and doesnt have any output and maybe produces an error.
